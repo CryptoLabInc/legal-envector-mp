@@ -6,7 +6,7 @@ enVector on Google Cloud Marketplace. Hosted via GitHub Pages.
 ## Pages
 
 - [`/privacy`](https://cryptolabinc.github.io/legal-envector-mp/privacy) — Privacy Policy (English; authoritative)
-- [`/privacy.ko`](https://cryptolabinc.github.io/legal-envector-mp/privacy.ko) — 개인정보 처리방침 (Korean; advisory translation)
+- [`/privacy-ko`](https://cryptolabinc.github.io/legal-envector-mp/privacy-ko) — 개인정보 처리방침 (Korean; advisory translation)
 
 ## Local preview
 
